@@ -17,3 +17,28 @@ export default function Home() {
     </main>
   );
 }
+div class="container-fluid">
+    <h1 class="box light-blue-box rokkitt text-center">
+      RANDOM NAME GENERATOR
+    </h1>
+    <div class="box light-gray-box rokkitt text-center">
+      <h3>Instructions</h3>
+      <h4>Click the "Generate" Button to Generate a Random Name!</h4>
+    </div>
+    <h4></h4>
+    <button onclick="generator()" class="btn btn-primary btn-block btn-large">Generate!</button>
+    <h1 class="jumbotron text-center rokkitt" id="name">Your Name Will Appear Here</h1>
+  </div>
+</body><div class="container-fluid">
+    <h1 class="box light-blue-box rokkitt text-center">
+      RANDOM NAME GENERATOR
+    </h1>
+    <div class="box light-gray-box rokkitt text-center">
+      <h3>Instructions</h3>
+      <h4>Click the "Generate" Button to Generate a Random Name!</h4>
+    </div>
+    <h4></h4>
+    <button onclick="generator()" class="btn btn-primary btn-block btn-large">Generate!</button>
+    <h1 class="jumbotron text-center rokkitt" id="name">Your Name Will Appear Here</h1>
+  </div>
+</body>
