@@ -14,10 +14,7 @@ export default function Home() {
         </a>{" "}
         to learn how to build SolidStart apps.
       </p>
-    </main>
-  );
-}
-div class="container-fluid">
+      div class="container-fluid">
     <h1 class="box light-blue-box rokkitt text-center">
       RANDOM NAME GENERATOR
     </h1>
@@ -41,4 +38,8 @@ div class="container-fluid">
     <button onclick="generator()" class="btn btn-primary btn-block btn-large">Generate!</button>
     <h1 class="jumbotron text-center rokkitt" id="name">Your Name Will Appear Here</h1>
   </div>
+    </main>
+  );
+}
+
 </body>
